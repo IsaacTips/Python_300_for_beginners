@@ -6,5 +6,5 @@
 
 |1-100|[링크](https://github.com/IsaacTips/Python_300_for_beginners/blob/main/1-100.ipynb)|
 |101-200|링크|
-|201-300|
+|201-300|링크|
 
